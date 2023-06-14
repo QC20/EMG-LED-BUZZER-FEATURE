@@ -2,7 +2,7 @@
 IoT Device; EMG Patch muscle flex input to control LED or Buzzer 
 # EMG Patch Prototype: A Novel Muscle-Controlled Interaction Method
 
-![Screenshot](screenshot.png)
+![Screenshot](PAD_fejl.png)
 
 ## Introduction
 Welcome to the EMG Patch Prototype repository! This project explores the integration of an EMG (Electromyography) patch with various actuators to create a cutting-edge muscle-controlled interaction method. As a seasoned HCI researcher specializing in novel interaction methods, I aim to demonstrate the potential of using muscle flexion to sense user input and produce intuitive outputs.
