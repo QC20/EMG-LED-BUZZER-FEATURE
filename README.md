@@ -27,5 +27,5 @@ In future experiments, I plan to invest in a higher quality EMG sensor to achiev
 
 Your feedback and contributions to this project are greatly appreciated as we collectively strive to push the boundaries of human-computer interaction.
 
-![Screenshot](EMG-ARM.JPG)
+![Screenshot](EMG.gif)
 
