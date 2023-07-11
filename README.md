@@ -1,5 +1,5 @@
 # EMG-LED-BUZZER-FEATURE
-IoT Device; EMG Patch muscle flex input to control LED or Buzzer 
+IoT Device; EMG Patch muscle flex input to control LED or Buzzer.
 # EMG Patch Prototype: A Novel Muscle-Controlled Interaction Method
 
 ![Screenshot](EMG-ARM.JPG)
