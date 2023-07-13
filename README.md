@@ -25,7 +25,7 @@ As an HCI researcher, I am keenly aware of the practical limitations and challen
 ## Future Directions
 In future experiments, I plan to invest in a higher quality EMG sensor to achieve greater precision and accuracy in muscle flexion detection. By collaborating with experts in the field, I aim to refine the design, address the identified challenges, and explore new possibilities for muscle-controlled interaction.
 
-Your feedback and contributions to this project are greatly appreciated as we collectively strive to push the boundaries of human-computer interaction.
+Your feedback and contributions to this project are greatly appreciated as we collectively strive to push the boundaries of human-computer interaction
 
 ![Screenshot](EMG.gif)
 
